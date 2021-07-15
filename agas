@@ -1,0 +1,59 @@
+[33mcommit a498dee15e60281f68a142ec781e5ecacb13e68e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-2-53.ap-northeast-1.compute.internal>
+Date:   Thu Jul 15 04:48:57 2021 +0000
+
+    20210715 テンプレート修正
+
+[33mcommit da4682cca8d754ee381781fde890cb6bc1d077a9[m
+Merge: b36b228 2fb13f9
+Author: Shoko Matsumura <sho-matsumura@mail.nissan.co.jp>
+Date:   Fri Feb 22 07:17:53 2019 +0900
+
+    Merge pull request #2 from m0cchi/master
+    
+    fixed typo
+
+[33mcommit b36b2288d9e4c8df82e1e5e2f6d487339f1f1328[m
+Author: Shoko Matsumura <fly.child1017@gmail.com>
+Date:   Fri Feb 22 07:17:13 2019 +0900
+
+    Update README.md
+
+[33mcommit 2fb13f9a28528759b61b5564c2274afae593ea5c[m
+Author: m0cchi <m0cchi@users.noreply.github.com>
+Date:   Sun Aug 6 19:48:12 2017 +0900
+
+    fixed typo
+
+[33mcommit defbfa825fcb1d257dca1bc38c98d97a60a12d55[m
+Merge: e98475f 5af9c84
+Author: Syoko Matsumura <fly.child1017@gmail.com>
+Date:   Tue Jan 31 16:43:55 2017 +0900
+
+    Merge pull request #1 from herblover/translate-korean
+    
+    Translate to korean
+
+[33mcommit 5af9c84e56869f1d4856ada292828d9a4ea2e1c9[m
+Author: YounShin Kang <herblover@gmail.com>
+Date:   Mon Jan 16 18:51:29 2017 +0900
+
+    Translate to korean
+
+[33mcommit e98475f6d6123d86778718e3dd5c949650828a46[m
+Author: Syoko Matsumura <fly.child1017@gmail.com>
+Date:   Wed Nov 30 09:23:40 2016 +0900
+
+    Create LICENSE.md
+
+[33mcommit 1f43c9c32071dc862e9e72882da46db08de1b890[m
+Author: Syoko Matsumura <fly.child1017@gmail.com>
+Date:   Wed Nov 30 09:22:59 2016 +0900
+
+    add first template
+
+[33mcommit aec3da0865980416b085ba41d90500acff420f83[m
+Author: Syoko Matsumura <fly.child1017@gmail.com>
+Date:   Wed Nov 30 09:22:18 2016 +0900
+
+    Initial commit
