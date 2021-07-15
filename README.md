@@ -4,24 +4,23 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
+|Name|yusuke.aoki|
+|live|Tokyo|
 |Blog|[ふーばーブログ](http://foobar.blog.com)|
 |Twitter|[@foobar](https://twitter.com/foobar)|
 
 ## スキル
 ### 言語
-- Ruby
 - PHP
-- Java
-- などなど
+- python
 
 ### フレームワーク
-
-- Ruby on Rails
 - Laravel
-- Spring Boot
-- などなど
 
+### クラウド
+- AWS
+- Azure
+- GCP
 ### その他
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
@@ -74,3 +73,5 @@
 * [ネットメディアの記事](記事のリンクとか)
 * [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
 * [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+https://zenn.dev/ryo_kawamata/articles/resume-on-github
