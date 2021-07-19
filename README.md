@@ -5,6 +5,7 @@
 |key|value|
 |---|-----|
 |Name|yusuke.aoki|
+|age|25|
 |live|Tokyo|
 |Blog|[Zenn](https://zenn.dev/yuki_tech)|
 |Blog|[Quita](https://qiita.com/yuki-tech)|
