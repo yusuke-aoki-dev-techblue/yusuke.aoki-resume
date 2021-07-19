@@ -6,8 +6,8 @@
 |---|-----|
 |Name|yusuke.aoki|
 |live|Tokyo|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Blog|[Zenn](https://zenn.dev/yuki_tech)|
+|Blog|[Quita](https://qiita.com/yuki-tech)|
 
 ## スキル
 ### 言語
@@ -22,20 +22,23 @@
 - Azure
 - GCP
 ### その他
-
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- docker
+- kubernetes
 
 ## 言語
-
 - 日本語
   - ネイティブ
 - 英語
   - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 英語で資料を探せるレベル
 
 ## 強み
+- 行動力と提案
+　- 自分にとって、組織にとっての最適解を検討する
+　- コミュニケーションをとり間違っていても発言する
 
 ## やったことはないが興味があるもの
+- フロントエンド開発
 
 ## 職務経歴
 
@@ -66,12 +69,3 @@
 
 ### 受賞歴
 * [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
-### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
-
-https://zenn.dev/ryo_kawamata/articles/resume-on-github
