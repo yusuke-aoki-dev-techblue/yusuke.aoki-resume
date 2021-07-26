@@ -65,9 +65,13 @@
 
 ### 社外プロジェクト
 * [AWS cloudtech](https://aws-cloud-tech.com/)
+    * cloudtechコミュニティイベント推進
+        * [エンジニア対学生バトル](https://www.youtube.com/watch?v=r0BXFYk_87c)
+        * [line developer communityコラボ](https://www.youtube.com/watch?v=w8o5uI2ONGw&t=278s)
 * [プログラミングスクール講師]
+    * 某企業のプログラミングスクール講師(PHP,laravel,javascript)   
 * [スタートアップインフラ構築支援]
-
+    * 某スタートアップ企業のインフラ要件定義から設計構築まで 
 ### 過去の登壇資料
 * [Speaker Deck](Speaker Deckの自分の資料のページとか)
 
