@@ -32,10 +32,10 @@
 
 ## 言語
 - 日本語
-- ネイティブ
+    - ネイティブ
 - 英語
-- かんたんな日常会話ができる
-- 英語で資料を探せるレベル
+    - かんたんな日常会話ができる
+    - 英語で資料を探せるレベル
 
 ## 強み
 - 行動力と提案
@@ -53,7 +53,7 @@ SESとして大手SIerに常駐して1年ほどになり、現在はcloudの担�
 ## 課外活動
 
 ### 社外プロジェクト
-* [AWS cloudtech](https://aws-cloud-tech.com/)
+* [AWS cloudtech](https://aws-cloud-tech.com/)∂
     * cloudtechコミュニティイベント推進
         * [エンジニア対学生バトル](https://www.youtube.com/watch?v=r0BXFYk_87c)
         * [line developer communityコラボ](https://www.youtube.com/watch?v=w8o5uI2ONGw&t=278s)
