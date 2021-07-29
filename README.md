@@ -73,3 +73,7 @@ SESとして大手SIerに常駐して1年ほどになり、現在はcloudの担�
     * AWS SAA(2021/7)
 - IPA
     * ITパスポート(2020/8)
+
+### 参考
+- https://dwango.github.io/articles/engineers-resume/
+- https://qiita.com/e99h2121/items/a3763dc9fd3a4e530684
