@@ -1,10 +1,12 @@
 # 職務経歴書
+ご覧いただきありがとうございます。こちらのドキュメント作成意図は、A4一枚で君は何ができるの？問題を解決するものです。
+ご興味を持ったいていただけましたら、ご連絡いただけますと幸いです。恐れ入りますがFacebookでご検索ください。
 
 ## 基本情報
 
 |key|value|
 |---|-----|
-|Name|yusuke.aoki|
+|Name|yusuke.aoki(青木侑甫)|
 |age|25|
 |live|Tokyo|
 |Blog|[Zenn](https://zenn.dev/yuki_tech)|
