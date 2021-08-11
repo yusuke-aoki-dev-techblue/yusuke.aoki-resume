@@ -14,11 +14,11 @@
 
 ## スキル
 ### 言語
-- PHP
+- PHP(基礎的な実装が可能)
 - python(AWSlambda記述レベル)
 
 ### フレームワーク
-- Laravel
+- Laravel(基礎的な実装が可能)
 
 ### クラウド
 - AWS
