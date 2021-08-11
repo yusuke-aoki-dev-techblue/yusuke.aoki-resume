@@ -67,7 +67,6 @@ SESとして大手SIerに常駐して1年ほどになり、現在はcloudの担�
 
 ### 執筆歴
 * [AWSクラウドエンジニアロードマップ2021](https://qiita.com/KurokawaKouhei/items/4e9aa3b526f3f233bf85)
-* 
 
 ### 資格
 - AWS
